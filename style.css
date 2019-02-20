@@ -180,9 +180,11 @@ html, body {
   display:inline;
   float: left;
   position: relative;
-  margin-left: 0px;
+  margin-left: 15%;
   margin-right: 0px;
   width:960px;
+  padding-bottom: 20px;
+
   clear:both;
 }
 
@@ -221,7 +223,7 @@ div.main_page {
   margin-right: 16px;
   margin-bottom: 12px;
   background: none repeat scroll 0% 0% rgb(255, 255, 255);
-  padding: 10px 0px 1px 4px;
+  padding: 3px 0px 1px 2px;
   border: 1px solid rgb(204, 204, 204);
 }
 
