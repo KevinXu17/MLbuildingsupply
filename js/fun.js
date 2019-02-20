@@ -27,6 +27,7 @@ $("#lang_span").on("click", function(){
 })
 
   // set nav bar change language
+  localStorage.setItem("lang", "中 文");
   $("#lang_span").text(localStorage.getItem("lang"));
   if (localStorage.getItem("lang") === "中 文") {
     $("#home_span").text("Home");
