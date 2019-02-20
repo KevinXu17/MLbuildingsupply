@@ -345,3 +345,9 @@ border-radius: 2px; }
   border-width: 5px;
   border-color: #347d62;
 }
+#multi-item-example {
+  margin-top: 20px;
+}
+.controls-top {
+  margin-left: 45%;
+}
