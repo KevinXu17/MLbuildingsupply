@@ -8,7 +8,7 @@
   <meta name="description" content="ML Building Supply LTD">
   <meta name="keywords" content="Aluminum,Bending, Stainless, product, building, supply">
   <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
-  
+
   <script src="js/config.js"></script>
   <script src="js/jquery-3.3.1.js"></script>
 </head>
@@ -22,7 +22,7 @@
       <div id="header_right">
           <ul>
             <li id="phone">+1 604-430-3008</li>
-            <li id="email"><a href="mailto:mlbuildingsupplysales@gmail.com">mlbuildingsupplysales@gmail.com</a></li>
+            <li id="email"><a href="mailto:mlbuildingsupply916@gmail.com">mlbuildingsupply916@gmail.com</a></li>
           </ul>
       </div>
     </div> <!-- div header -->
