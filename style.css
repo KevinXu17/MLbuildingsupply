@@ -180,7 +180,7 @@ html, body {
   display:inline;
   float: left;
   position: relative;
-  margin-left: 15%;
+  margin-left: 20%;
   margin-right: 0px;
   width:960px;
   padding-bottom: 20px;
@@ -199,8 +199,8 @@ html, body {
 
 
 div.main_page {
-    margin:auto;
-    padding:10px;
+    margin-left: 100px;
+    padding:30px;
     line-height: 1.5em;
     background-color:white;
     font-family: Georgia,Serif;
@@ -216,27 +216,27 @@ div.main_page {
   display:inline;
   float: left;
   position: relative;
-  width: 155px;
-  height: 108px;
+  width: 220px;
+  height: 190px;
   margin-top: 12px;
   margin-left: 15px;
   margin-right: 16px;
   margin-bottom: 12px;
   background: none repeat scroll 0% 0% rgb(255, 255, 255);
   padding: 3px 0px 1px 2px;
-  border: 1px solid rgb(204, 204, 204);
+  border: 3px solid rgb(110, 204, 255);
 }
 
 .item img{
-    max-width: 150px;
-    max-height: 160px;
+    width: 210px;
+    height: 180px;
 }
 
 .al_item {
   display:inline;
   float: left;
   position: relative;
-  width: 155px;
+  width: 160px;
   height: 200px;
   margin-top: 12px;
   margin-left: 15px;
@@ -244,12 +244,12 @@ div.main_page {
   margin-bottom: 12px;
   background: none repeat scroll 0% 0% rgb(255, 255, 255);
   padding: 10px 0px 1px 4px;
-  border: 1px solid rgb(204, 204, 204);
+  border: 3px solid rgb(153, 204, 255);
 }
 
 .al_item img{
     max-width: 150px;
-    max-height: 200px;
+    max-height: 185px;
 }
 
   #lightbox {
@@ -300,7 +300,7 @@ div.main_page {
     height:320px;
   }
 #navbarNavAltMarkup {
-  z-index: 100;
+  /* z-index: 100; */
   margin-top: -1.6px;
 }
 
@@ -355,3 +355,8 @@ border-radius: 2px; }
 }
 
 .nav-link {color:white;}
+
+.al_item img {
+  margin-left: -1px;
+  margin-top: -3px;
+}
