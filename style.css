@@ -301,7 +301,7 @@ div.main_page {
     height:320px;
   }
 #navbarNavAltMarkup {
-  /* z-index: 100; */
+  z-index: 1;
   margin-top: -1.6px;
 }
 
@@ -360,4 +360,8 @@ border-radius: 2px; }
 .al_item img {
   margin-left: -1px;
   margin-top: -3px;
+}
+
+#lightbox {
+  z-index: 2;
 }
